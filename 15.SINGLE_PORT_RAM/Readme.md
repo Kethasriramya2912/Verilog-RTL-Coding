@@ -1,3 +1,6 @@
+# Single Port Ram
+
+
 Single-port RAM (Random Access Memory) refers to a type of RAM that allows for one read or write operation at a time. This contrasts with dual-port RAM, which can handle simultaneous read and write operations from two different ports. Here are some key characteristics and uses of single-port RAM:
 
 ### Characteristics of Single-Port RAM
