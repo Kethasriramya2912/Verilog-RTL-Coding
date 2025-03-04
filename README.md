@@ -1,6 +1,6 @@
 # Verilog-RTL-Coding
 
-1.ALU
+1.ALU :https://github.com/Kethasriramya2912/Verilog-RTL-Coding/tree/main/1.ALU
 
 2.BCD_ADDER
 
